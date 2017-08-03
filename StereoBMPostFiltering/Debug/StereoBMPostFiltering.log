@@ -1,0 +1,16 @@
+﻿2017/02/09 16:36:22 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\0133752\Documents\Visual Studio 2013\Projects\StereoBMPostFiltering\StereoBMPostFiltering\StereoBMPostFiltering.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\opencv310\build\install\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\opencv310\build\install\include\opencv2\core\mat.hpp(1965): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+     1>c:\opencv310\build\install\include\opencv2\core\persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+     1>c:\opencv310\build\install\include\opencv2\core\utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\0133752\Documents\Visual Studio 2013\Projects\StereoBMPostFiltering\Debug\StereoBMPostFiltering.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\0133752\Documents\Visual Studio 2013\Projects\StereoBMPostFiltering\Debug\StereoBMPostFiltering.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\0133752\Documents\Visual Studio 2013\Projects\StereoBMPostFiltering\Debug\StereoBMPostFiltering.lib" /MACHINE:X86 Debug\Source.obj
+         StereoBMPostFiltering.vcxproj -> C:\Users\0133752\Documents\Visual Studio 2013\Projects\StereoBMPostFiltering\Debug\StereoBMPostFiltering.exe
+     1>プロジェクト "C:\Users\0133752\Documents\Visual Studio 2013\Projects\StereoBMPostFiltering\StereoBMPostFiltering\StereoBMPostFiltering.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.19
